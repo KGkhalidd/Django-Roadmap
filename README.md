@@ -80,22 +80,22 @@
     - [x] Chapter 10 : Schema and Documentation 
     - [x] Chapter 11 : Production Deployment 
 2. **Django 4 by Example** 
-    - [x] Chapter 1 : Building a blog application 
-    - [x] Chapter 2 : Enhancing your blog with advanced features 
-    - [x] Chapter 3 : Extending your blog application 
-    - [x] Chapter 4 : Building a social website 
-    - [x] Chapter 5 : Implementing social Authentication 
-    - [ ] Chapter 6 : Sharing content on your website 
-    - [ ] Chapter 7 : Tracking user action
-    - [x] Chapter 8 : Building an online shop
-    - [x] Chapter 9 : Managing payment and orders
+    - [] Chapter 1 : Building a blog application 
+    - [] Chapter 2 : Enhancing your blog with advanced features 
+    - [] Chapter 3 : Extending your blog application 
+    - [] Chapter 4 : Building a social website 
+    - [] Chapter 5 : Implementing social Authentication 
+    - [] Chapter 6 : Sharing content on your website 
+    - [] Chapter 7 : Tracking user action
+    - [] Chapter 8 : Building an online shop
+    - [] Chapter 9 : Managing payment and orders
     - [ ] Chapter 10 : Extending your shop
     - [ ] Chapter 11 : Adding Internationalization to your shop
     - [ ] Chapter 12 : Building an E-Learning platform 
     - [ ] Chapter 13 : Creating a Content management system
     - [ ] Chapter 14 : Rendering and Caching content 
     - [ ] Chapter 15 : Building an API
-    - [x] Chapter 16 : Building a chat server
+    - [] Chapter 16 : Building a chat server
     - [ ] Chapter 17 : Going Live
 3. **Django for Professionals**
     - [ ] Docker
