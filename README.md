@@ -67,19 +67,7 @@
 - [mockaroo.com ↗](https://mockaroo.com/) -> random data generator
 
 ## Books
-1. **Django for APIs**
-    - [ ] Chapter 1 : Initial set up
-    - [ ] Chapter 2 : Web APIs
-    - [ ] Chapter 3 : Library Website
-    - [ ] Chapter 4 : Library API
-    - [ ] Chapter 5 : Todo API
-    - [ ] Chapter 6 : Blog API
-    - [ ] Chapter 7 : Permission 
-    - [ ] Chapter 8 : User Authentication 
-    - [ ] Chapter 9 : Viewsets and Routers
-    - [ ] Chapter 10 : Schema and Documentation 
-    - [ ] Chapter 11 : Production Deployment 
-2. **Django 4 by Example** 
+1. **Django 4 by Example** 
     - [ ] Chapter 1 : Building a blog application 
     - [ ] Chapter 2 : Enhancing your blog with advanced features 
     - [ ] Chapter 3 : Extending your blog application 
@@ -97,6 +85,18 @@
     - [ ] Chapter 15 : Building an API
     - [ ] Chapter 16 : Building a chat server
     - [ ] Chapter 17 : Going Live
+2. **Django for APIs**
+    - [ ] Chapter 1 : Initial set up
+    - [ ] Chapter 2 : Web APIs
+    - [ ] Chapter 3 : Library Website
+    - [ ] Chapter 4 : Library API
+    - [ ] Chapter 5 : Todo API
+    - [ ] Chapter 6 : Blog API
+    - [ ] Chapter 7 : Permission 
+    - [ ] Chapter 8 : User Authentication 
+    - [ ] Chapter 9 : Viewsets and Routers
+    - [ ] Chapter 10 : Schema and Documentation 
+    - [ ] Chapter 11 : Production Deployment 
 3. **Django for Professionals**
     - [ ] Docker
     - [ ] PostgreSQL
