@@ -68,7 +68,7 @@
 
 ## Books
 1. **Django 4 by Example** 
-    - [ ] Chapter 1 : Building a blog application 
+    - [ x ] Chapter 1 : Building a blog application 
     - [ ] Chapter 2 : Enhancing your blog with advanced features 
     - [ ] Chapter 3 : Extending your blog application 
     - [ ] Chapter 4 : Building a social website 
