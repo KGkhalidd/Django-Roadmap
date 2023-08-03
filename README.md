@@ -6,10 +6,10 @@
 [![Account: GitHub](https://img.shields.io/badge/Fares%20Emad-GitHub-2b3137)](https://www.github.com/faresemad/)
 
 ## Junior 
- - [ ] Models & Query set
+ - [x] Models & Query set
  - [ ] Views & Mixins
  - [ ] Forms & Form-set
- - [ ] Templates & Filters
+ - [x] Templates & Filters
  - [ ] Authentication
 
 ## Mid-Level 
