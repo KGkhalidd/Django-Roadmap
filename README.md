@@ -71,7 +71,7 @@
     - [x] Chapter 1 : Building a blog application 
     - [x] Chapter 2 : Enhancing your blog with advanced features 
     - [x] Chapter 3 : Extending your blog application 
-    - [ ] Chapter 4 : Building a social website 
+    - [x] Chapter 4 : Building a social website 
     - [ ] Chapter 5 : Implementing social Authentication 
     - [ ] Chapter 6 : Sharing content on your website 
     - [ ] Chapter 7 : Tracking user action
