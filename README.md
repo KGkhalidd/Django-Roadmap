@@ -10,7 +10,7 @@
  - [ ] Views & Mixins
  - [ ] Forms & Form-set
  - [x] Templates & Filters
- - [ ] Authentication
+ - [x] Authentication
 
 ## Mid-Level 
  - [ ] Components [ Customization ]
@@ -73,8 +73,8 @@
     - [x] Chapter 3 : Extending your blog application 
     - [x] Chapter 4 : Building a social website 
     - [x] Chapter 5 : Implementing social Authentication 
-    - [ ] Chapter 6 : Sharing content on your website 
-    - [ ] Chapter 7 : Tracking user action
+    - [x] Chapter 6 : Sharing content on your website 
+    - [x] Chapter 7 : Tracking user action
     - [ ] Chapter 8 : Building an online shop
     - [ ] Chapter 9 : Managing payment and orders
     - [ ] Chapter 10 : Extending your shop
