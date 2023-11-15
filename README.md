@@ -75,7 +75,7 @@
     - [x] Chapter 5 : Implementing social Authentication 
     - [x] Chapter 6 : Sharing content on your website 
     - [x] Chapter 7 : Tracking user action
-    - [ ] Chapter 8 : Building an online shop
+    - [x] Chapter 8 : Building an online shop
     - [ ] Chapter 9 : Managing payment and orders
     - [ ] Chapter 10 : Extending your shop
     - [ ] Chapter 11 : Adding Internationalization to your shop
