@@ -76,7 +76,7 @@
     - [x] Chapter 6 : Sharing content on your website 
     - [x] Chapter 7 : Tracking user action
     - [x] Chapter 8 : Building an online shop
-    - [ ] Chapter 9 : Managing payment and orders
+    - [x] Chapter 9 : Managing payment and orders
     - [ ] Chapter 10 : Extending your shop
     - [ ] Chapter 11 : Adding Internationalization to your shop
     - [ ] Chapter 12 : Building an E-Learning platform 
