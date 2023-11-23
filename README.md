@@ -16,17 +16,17 @@
  - [ ] Components [ Customization ]
  - [ ] Models [ Instance Methods - models vs views - Transaction]
  - [ ] Views [ customize mixins ]
- - [ ] Templates [ customiza filters & tags ]
+ - [x] Templates [ customiza filters & tags ]
  - [ ] Translation
- - [ ] Payment
+ - [x] Payment
  - [ ] Channels
- - [ ] Celery & Redis
+ - [x] Celery & Redis
  - [ ] Testing 
- - [ ] Admin customization 
- - [ ] Sessions
+ - [x] Admin customization 
+ - [x] Sessions
  - [ ] Cookies
  - [ ] Cache
- - [ ] Authentication 
+ - [x] Authentication 
  - [ ] Swagger
  - [ ] Analysis
 
