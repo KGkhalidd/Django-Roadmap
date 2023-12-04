@@ -77,7 +77,7 @@
     - [x] Chapter 7 : Tracking user action
     - [x] Chapter 8 : Building an online shop
     - [x] Chapter 9 : Managing payment and orders
-    - [ ] Chapter 10 : Extending your shop
+    - [x] Chapter 10 : Extending your shop
     - [ ] Chapter 11 : Adding Internationalization to your shop
     - [ ] Chapter 12 : Building an E-Learning platform 
     - [ ] Chapter 13 : Creating a Content management system
