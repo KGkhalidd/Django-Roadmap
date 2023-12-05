@@ -86,7 +86,7 @@
     - [ ] Chapter 16 : Building a chat server
     - [ ] Chapter 17 : Going Live
 2. **Django for APIs**
-    - [ ] Chapter 1 : Initial set up
+    - [x] Chapter 1 : Initial set up
     - [ ] Chapter 2 : Web APIs
     - [ ] Chapter 3 : Library Website
     - [ ] Chapter 4 : Library API
