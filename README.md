@@ -38,8 +38,8 @@
  - [ ] Security 
 ## Must you know 
  - [ ] Deployment 
- - [ ] REST API & DOC
- - [ ] Git & GitHub
+ - [x] REST API & DOC
+ - [x] Git & GitHub
 
 ## Courses 
 1. **Django with Mosh**
@@ -87,9 +87,9 @@
     - [ ] Chapter 17 : Going Live
 2. **Django for APIs**
     - [x] Chapter 1 : Initial set up
-    - [ ] Chapter 2 : Web APIs
-    - [ ] Chapter 3 : Library Website
-    - [ ] Chapter 4 : Library API
+    - [x] Chapter 2 : Web APIs
+    - [x] Chapter 3 : Library Website
+    - [x] Chapter 4 : Library API
     - [ ] Chapter 5 : Todo API
     - [ ] Chapter 6 : Blog API
     - [ ] Chapter 7 : Permission 
