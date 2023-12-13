@@ -7,7 +7,7 @@
 
 ## Junior 
  - [x] Models & Query set
- - [ ] Views & Mixins
+ - [x] Views & Mixins
  - [ ] Forms & Form-set
  - [x] Templates & Filters
  - [x] Authentication
@@ -90,12 +90,12 @@
     - [x] Chapter 2 : Web APIs
     - [x] Chapter 3 : Library Website
     - [x] Chapter 4 : Library API
-    - [ ] Chapter 5 : Todo API
-    - [ ] Chapter 6 : Blog API
-    - [ ] Chapter 7 : Permission 
-    - [ ] Chapter 8 : User Authentication 
-    - [ ] Chapter 9 : Viewsets and Routers
-    - [ ] Chapter 10 : Schema and Documentation 
+    - [x] Chapter 5 : Todo API
+    - [x] Chapter 6 : Blog API
+    - [x] Chapter 7 : Permission 
+    - [x] Chapter 8 : User Authentication 
+    - [x] Chapter 9 : Viewsets and Routers
+    - [x] Chapter 10 : Schema and Documentation 
     - [ ] Chapter 11 : Production Deployment 
 3. **Django for Professionals**
     - [ ] Docker
