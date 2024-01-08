@@ -79,7 +79,7 @@
     - [x] Chapter 9 : Managing payment and orders
     - [x] Chapter 10 : Extending your shop
     - [ ] Chapter 11 : Adding Internationalization to your shop
-    - [ ] Chapter 12 : Building an E-Learning platform 
+    - [x] Chapter 12 : Building an E-Learning platform 
     - [ ] Chapter 13 : Creating a Content management system
     - [ ] Chapter 14 : Rendering and Caching content 
     - [ ] Chapter 15 : Building an API
